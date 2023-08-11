@@ -1,0 +1,32 @@
+#+title: Worksheet Generator Project Notes
+#+author: Justin Pineda
+
+* Ideas about how the project will work
+I want to make it a webapp. One that you can select forms and 
+
+
+* Other online examples
+
+| Name              | Pros                            | Cons                               |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://digital.demmelearning.com/worksheet-generator][Demme Learning]]    | Nice Interface (although small) | Obscure Difficulty                 |
+|                   | Nice options for display        | Lack of control over questions     |
+|                   | Detailed steps for answers      | Ugly font                          |
+|                   |                                 | Ugly Typesetting                   |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://www.wolframalpha.com/problem-generator/][WolframAlpha]]      | Wide range of questions         | Paid                               |
+|                   | Based on student engagement     | Based on student engagement        |
+|                   | Good looking                    | No solutions without paying        |
+|                   | Provides matching answer key    |                                    |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://www.math-aids.com/Addition/][Math-Aids]]         | Really nice customization       | Ugly worksheet                     |
+|                   |                                 | No highschool                      |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://themathworksheetsite.com/][MathWorksheetSite]] | Really good all around          | Full version is subscription based |
+|                   |                                 | Ugly                               |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://www.superteacherworksheets.com/full-generators-index.html][Super Teachers]]    | Really good all around          | No highschool version              |
+|                   |                                 |                                    |
+|-------------------+---------------------------------+------------------------------------|
+| [[https://www.kutasoftware.com/][Kuta Software]]     | This is what I want to be       | But free and opensource            |
+|-------------------+---------------------------------+------------------------------------|

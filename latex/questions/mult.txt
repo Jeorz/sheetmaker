@@ -1,0 +1,10 @@
+\newcommand{\multq}[3][]{
+\question{} \text{}\\
+
+\vspace{-2.5em}
+  \begin{tabular}[h]{c c}
+    & #2 \\
+    $\times$ & #3 \\
+    \hline{}  & \textbf{#1}
+  \end{tabular}  
+}
