@@ -15,7 +15,7 @@ I want to make it a webapp. One that you can select forms and
 |                   |                                 | Ugly Typesetting                   |
 |-------------------+---------------------------------+------------------------------------|
 | [[https://www.wolframalpha.com/problem-generator/][WolframAlpha]]      | Wide range of questions         | Paid                               |
-|                   | Based on student engagement     | Based on student engagement        |
+|                   | Based on student engagement?    | Based on student engagement        |
 |                   | Good looking                    | No solutions without paying        |
 |                   | Provides matching answer key    |                                    |
 |-------------------+---------------------------------+------------------------------------|
