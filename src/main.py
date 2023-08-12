@@ -78,7 +78,7 @@ def make_page(question_type):
 
     output += "\n\\begin{document}\n\n"
 
-    output += half_page_questions(mult)  # this is not yet genearalized
+    output += print_questions(mult)  # this is not yet genearalized
 
     output += "\n\\end{document}"
 
@@ -92,7 +92,7 @@ def make_page(question_type):
     )
 
 
-def half_page_questions(q):
+def print_questions(q):
     def make_row(row_width):
         row = ""
         ans_row = ""
