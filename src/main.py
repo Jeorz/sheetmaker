@@ -39,8 +39,8 @@ def init_questions():
         prod = a * b
 
         q_pair = (
-            "\\multq{" + str(a) + "}" + "{" + str(b) + "}",
-            "\\multq" + "[" + str(prod) + "]" + "{" + str(a) + "}" + "{" + str(b) + "}",
+            f"\\multq{{{str(a)}}}{{{str(b)}}}",
+            f"\\multq[{str(prod)}]{{{str(a)}}}{{{str(b)}}}",
         )
 
         return q_pair
@@ -96,8 +96,8 @@ def print_questions(q):
     def make_row(row_width):
         row = ""
         ans_row = ""
-        row += "\\begin{multicols}{" + str(row_width) + "}\n"
-        ans_row += "\\begin{multicols}{" + str(row_width) + "}\n"
+        row += f"\\begin{{multicols}}{{{str(row_width)}}}\n"
+        ans_row += f"\\begin{{multicols}}{{{str(row_width)}}}\n"
         for i in range(row_width):
             question = q.print_question()
             row += question[0] + "\n"
