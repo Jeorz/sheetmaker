@@ -1,0 +1,2 @@
+\newcommand{\algebraq}[1]{\question
+\raisebox{0.95cm}[0pt]{\parbox[t]{0.5\linewidth}{\begin{align*}#1\end{align*}}}}

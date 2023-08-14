@@ -29,11 +29,36 @@
 \runningheader{}{\sheettitle}{}
 \footer{}{\thepage}{}
 
+% \newcommand{\algebraq}[1]{\question
+% \raisebox{0.95cm}[0pt]{\parbox[t]{0.5\linewidth}{#1}}}
+
+\newcommand{\algebraq}[1]{\question
+\raisebox{0.95cm}[0pt]{\parbox[t]{0.5\linewidth}{\begin{align*}#1\end{align*}}}}
+
 \begin{document}
 
 \begin{questions}
 
+  \begin{multicols}{2}
+  \algebraq{
+      x + 2 &= 8 \\
+      x + 2 -2 &= 8 - 2 \\
+      x &= 6 \\
+      x &= 2 \\
+      2 &= x
+    }
+   
 
+
+  \algebraq{
+    x &= 12 \\
+    x &= 31 \\
+    }
+
+      
+
+    
+  \end{multicols}
 
 \end{questions}
 

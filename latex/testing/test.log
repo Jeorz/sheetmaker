@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.20)  8 AUG 2023 20:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.20)  14 AUG 2023 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -477,88 +477,88 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 ) (./test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-2.
+8.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 32.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 32.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 32.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 32.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 32.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 32.
-LaTeX Font Info:    Redeclaring math accent \check on input line 32.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 32.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 38.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 38.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 38.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 38.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 38.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 38.
+LaTeX Font Info:    Redeclaring math accent \check on input line 38.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 38.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 38.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 38.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 32.
+(Font)              `operators' in the math version `normal' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 32.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 32.
+(Font)              `operators' in the math version `bold' on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 32.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 32.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 32.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 32.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 32.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -594,83 +594,194 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 38.
 (./test.out) (./test.out)
 \@outlinefile=\write3
 \openout3 = `test.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
 
- []
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
+Runaway argument?
+ 
+./test.tex:51: Paragraph ended before \align* was complete.
+<to be read again> 
+                   \par 
+l.51     \end{align*}}
+                      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+./test.tex:51: Missing $ inserted.
+<inserted text> 
+                $
+l.51     \end{align*}}
+                      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
- []
+./test.tex:51: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.51     \end{align*}}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
+./test.tex:51: Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.51     \end{align*}}
+                      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+./test.tex:51: Misplaced alignment tab character &.
+<argument> ...estore  \begin {align*} \par x + 2 &
+                                                  = 8 \\ x + 2 -2 &= 8 - 2 \...
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
- []
+./test.tex:51: Misplaced alignment tab character &.
+<argument> ...lign*} \par x + 2 &= 8 \\ x + 2 -2 &
+                                                  = 8 - 2 \\ x &= 6 \\ x &= ...
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
+./test.tex:51: Misplaced alignment tab character &.
+<argument> ...+ 2 &= 8 \\ x + 2 -2 &= 8 - 2 \\ x &
+                                                  = 6 \\ x &= 2 \\ 2 &= x \e...
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+./test.tex:51: Misplaced alignment tab character &.
+<argument> ...\ x + 2 -2 &= 8 - 2 \\ x &= 6 \\ x &
+                                                  = 2 \\ 2 &= x \end {align*...
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
- []
+./test.tex:51: Misplaced alignment tab character &.
+<argument> ... &= 8 - 2 \\ x &= 6 \\ x &= 2 \\ 2 &
+                                                  = x \end {align*}\@@par 
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
+./test.tex:51: Misplaced \cr.
+\math@cr@@@ ->\cr 
+                  
+l.51     \end{align*}}
+                      
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+./test.tex:51: Misplaced \noalign.
+\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
+                                                  {\vskip #1\relax }
+l.51     \end{align*}}
+                      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
- []
+./test.tex:51: Misplaced \noalign.
+\black@ #1->\noalign 
+                     {\ifdim #1>\displaywidth \dimen@ \prevdepth \nointerlin...
+l.51     \end{align*}}
+                      
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
+./test.tex:51: Extra }, or forgotten \endgroup.
+\endalign ->\math@cr \black@ \totwidth@ \egroup 
+                                                \ifingather@ \restorealignst...
+l.51     \end{align*}}
+                      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+./test.tex:51: Missing $ inserted.
+<inserted text> 
+                $
+l.51     \end{align*}}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
-
- []
+./test.tex:51: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.51     \end{align*}}
+                      
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
 
 [1
 
 ]
-This exam contains 11 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam contains 2 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
 (./test.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `test.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12801 strings out of 478682
- 248859 string characters out of 5849665
- 1860018 words of memory out of 5000000
- 32787 multiletter control sequences out of 15000+600000
+ 12756 strings out of 478682
+ 248190 string characters out of 5849665
+ 1848018 words of memory out of 5000000
+ 32742 multiletter control sequences out of 15000+600000
  519088 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,10n,77p,247b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,77p,247b,359s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on test.pdf (1 page).
