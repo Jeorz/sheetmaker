@@ -6,9 +6,13 @@ import subprocess
 
 import sympy as sp
 
+import ques
+
 # import shutil
 
 # print_ans = True
+
+ques.init_questions()
 
 
 def make_page(question_type):
@@ -85,7 +89,7 @@ def print_questions(q):
 
 
 # testing functions
-init_mult()
+# init_mult()
 
 # sympy testing
 # x = sp.symbols("x")

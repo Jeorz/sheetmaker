@@ -1,7 +1,9 @@
 # algebra.py
 # generating algebra questions
 
+import random
 
+# from question import *
 
 # I want to add support for more operations within the
 # same function here

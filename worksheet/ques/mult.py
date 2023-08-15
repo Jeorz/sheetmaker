@@ -1,7 +1,11 @@
 # mult.py
 # generate vertical multiplication question
 
-from question import *
+import random
+
+from ques.question import TwoInt
+
+multiply = ["init_mult"]
 
 
 def init_mult():

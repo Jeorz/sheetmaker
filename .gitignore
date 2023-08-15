@@ -1,4 +1,6 @@
-src/output/
+worksheet/output/
 /env/
 
-__pycache__/
+worksheet/ques/__pycache__/
+
+/latex/testing/_region_.tex
