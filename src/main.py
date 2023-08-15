@@ -4,56 +4,11 @@ import os
 import random
 import subprocess
 
+import sympy as sp
+
 # import shutil
 
 # print_ans = True
-
-
-class Question:
-    # I don't have a good way of storing the args for question_f
-    def __init__(self, print_func, file_string, row_width, column_height):
-        self._print_func = print_func
-        self._file_string = file_string
-        self.row_width = row_width
-        self.column_height = column_height
-
-    def get_command(self):
-        with open(self._file_string, "r", newline="\n") as f:
-            return f.read()
-
-
-class TwoInputs(Question):
-    def __init__(self, start, stop, print_func, file_string, row_width, column_height):
-        self.start = start
-        self.stop = stop
-        super().__init__(print_func, file_string, row_width, column_height)
-
-    def print_question(self):
-        return self._print_func(self.start, self.stop)
-
-
-def init_questions():
-    def mult_question(start, stop):
-        a = random.randrange(start, stop)
-        b = random.randrange(start, stop)
-        prod = a * b
-
-        q_pair = (
-            f"\\multq{{{str(a)}}}{{{str(b)}}}",
-            f"\\multq[{str(prod)}]{{{str(a)}}}{{{str(b)}}}",
-        )
-
-        return q_pair
-
-    global mult
-    mult = TwoInputs(
-        2,
-        12,
-        mult_question,
-        "../latex/questions/mult.txt",
-        5,
-        12,
-    )
 
 
 def make_page(question_type):
@@ -130,7 +85,13 @@ def print_questions(q):
 
 
 # testing functions
-init_questions()
+init_mult()
+
+# sympy testing
+# x = sp.symbols("x")
+# eq = sp.Eq(2 * x, 8)
+# sp.solve(eq)
+
 
 # TODO
 # - make a single page of multiplication
